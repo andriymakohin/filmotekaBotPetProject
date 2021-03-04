@@ -1,0 +1,3 @@
+cd /home/ubuntu/fb-bot
+npm install --unsafe-perm
+pm2 start ./pm2.config.js --env staging
