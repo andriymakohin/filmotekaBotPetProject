@@ -1,3 +1,0 @@
-#!/bin/bash
-pm2 delete node-red-fb-bot || true
-rm -rf /home/ubuntu/fb-bot

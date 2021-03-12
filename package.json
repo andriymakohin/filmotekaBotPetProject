@@ -5,7 +5,7 @@
     "private": true,
     "dependencies": {
         "lodash": "^4.17.20",
-        "node-red": "^1.2.7",
+        "node-red": "^1.2.9",
         "node-red-contrib-facebook-messenger-writer": "0.0.5",
         "node-red-contrib-mongodb3": "~2.0.1",
         "node-red-contrib-ngrok": "~1.0.0",
